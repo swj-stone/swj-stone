@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Wenjie SHI (石文杰) 👋</h1>
+<h1 align="center">Hi, I'm Wenjie SHI 👋</h1>
  
 <h3 align="center">Multi-Agent</h3>
  
