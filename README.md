@@ -7,7 +7,7 @@
 ### About Me:
  
 🎓 Master of Mathematics @ SPBU (ST. Petersburg), Class of 2027  
-🤖 Focus Area: Multi-Agent Reinforcement Learning
+🤖 Focus Area: Multi-Agent Reinforcement Learning  
 💼 Looking for 2026 ML Research Internship  
  
  
