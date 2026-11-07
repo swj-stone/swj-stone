@@ -8,7 +8,7 @@
 ### About Me:
  
 🎓 Master of Mathematics @ SPBU (ST. Petersburg), Class of 2027  
-🤖 Focus Area: Game-theoretic feature attribution and selection, multi-agent coordination, optimization, stochastic differential equations, ML
+🤖 Focus Area: Game-theoretic feature attribution and selection, multi-agent coordination, optimization, SDEs, ML
 💼 Looking for 2026 ML Research Internship  
  
  
