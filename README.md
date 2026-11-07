@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Wenjie SHI 👋</h1>
  
-<h3 align="center">Multi-Agent</h3>
+<h3 align="center">Game-theoretic feature attribution and selection, multi-agent coordination, optimization, stochastic differential equations</h3>
  
 ---
  
 ### About Me:
  
 🎓 Master of Mathematics @ SPBU (ST. Petersburg), Class of 2027  
-🤖 Focus Area: Multi-Agent Reinforcement Learning  
+🤖 Focus Area: Game-theoretic feature attribution and selection, multi-agent coordination, optimization, stochastic differential equations, ML
 💼 Looking for 2026 ML Research Internship  
  
  
