@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Wenjie SHI 👋</h1>
  
-<h3 align="center">Game-theoretic feature attribution and selection, multi-agent coordination, optimization, stochastic differential equations</h3>
- 
+<h3 align="center">Game-theoretic feature attribution and selection</h3>
+<h3 align="center">Multi-agent coordination, optimization, stochastic differential equations</h3>
+
 ---
  
 ### About Me:
